@@ -35,8 +35,8 @@
 #define DBUS_ERROR "org.cneo.System.Error"
 
 #define NETBOOK_BRIGHTNESS_FILE "/sys/class/backlight/intel_backlight/brightness"
-#define NETBOOK_MAX_BRIGHTNESS_FILE "/sys/class/backlight/acpi_video0/max_brightness"
-#define NETBOOK_ACT_BRIGHTNESS_FILE "/sys/class/backlight/acpi_video0/actual_brightness"
+#define NETBOOK_MAX_BRIGHTNESS_FILE "/sys/class/backlight/intel_backlight/max_brightness"
+#define NETBOOK_ACT_BRIGHTNESS_FILE "/sys/class/backlight/intel_backlight/actual_brightness"
 
 #define GTA02_BRIGHTNESS_FILE "/sys/class/backlight/pcf50633-backlight/brightness"
 #define GTA02_MAX_BRIGHTNESS_FILE "/sys/class/backlight/pcf50633-backlight/max_brightness"
