@@ -1,2 +1,2 @@
 # cneo
-a experimental dbus server written in c
+a experimental dbus server written in c!
